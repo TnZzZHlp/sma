@@ -1,3 +1,5 @@
+![Preview](img/image.png)
+
 ## 主要功能
 
 * **智能解题**：
